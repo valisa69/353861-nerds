@@ -1,11 +1,10 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Елизавета Вагабова](https://up.htmlacademy.ru/htmlcss/16/user/353861).
-<<<<<<< HEAD
-* Наставник: [Сергей Прокопеня](https://htmlacademy.ru/profile/sera_prokop).
-=======
+HEAD
+
 * Наставник:[Сергей прокопеня](https://htmlacademy.ru/profile/sera_prokop).
->>>>>>> origin/patch-1
+ origin/patch-1
 
 ---
 
