@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Елизавета Вагабова](https://up.htmlacademy.ru/htmlcss/16/user/353861).
-* Наставник: `Неизвестно`.
+* Наставник:[Сергей прокопеня](https://htmlacademy.ru/profile/sera_prokop).
 
 ---
 
